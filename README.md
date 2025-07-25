@@ -1,6 +1,6 @@
 # GenAI Multi‑Modal Research Assistant
 
-An end‑to‑end Retrieval‑Augmented Generation assistant that ingests PDFs, web pages, and images—then answers questions over both text and visual content.
+An end‑to‑end Retrieval‑Augmented Generation assistant that ingests PDFs, web pages, and images then answers questions over both text and visual content.
 
 ---
 
