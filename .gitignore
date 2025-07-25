@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+data/
+src/genai_multi_modal_research_assistant.egg-info/

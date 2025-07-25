@@ -1,0 +1,7 @@
+pdf_dir: "data/raw/pdfs"
+html_dir: "data/raw/html"
+image_dir: "data/raw/images"
+processed_text_dir: "data/processed/texts"
+processed_captions_dir: "data/processed/captions"
+# model names
+caption_model: "Salesforce/blip-image-captioning-base"
